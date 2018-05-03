@@ -6,4 +6,4 @@ Bind **port 9960** to the port you'd like to use on your host machine
 
 Example start command:
 
-docker run -d -p <host-port>:9960 kluch/autotag:1.2.21
+docker run -d -p \<host-port\>:9960 kluch/autotag:1.2.21
