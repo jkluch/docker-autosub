@@ -33,12 +33,12 @@
   </Networking>
   <Data>
     <Volume>
-      <HostDir>/mnt/user/appdata/docker-files/compose-tutorial</HostDir>
+      <HostDir>/mnt/user/</HostDir>
       <ContainerDir>/series</ContainerDir>
       <Mode>rw</Mode>
     </Volume>
     <Volume>
-      <HostDir>/mnt/user/appdata/docker-files/compose-tutorial</HostDir>
+      <HostDir>/mnt/user/</HostDir>
       <ContainerDir>/backup</ContainerDir>
       <Mode>rw</Mode>
     </Volume>
