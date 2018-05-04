@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <Container version="2">
-  <Name>Autotag</Name>
-  <Repository>kluch/autotag</Repository>
+  <Name>Autosub</Name>
+  <Repository>kluch/autosub</Repository>
   <Registry/>
   <Network>bridge</Network>
   <MyIP/>
