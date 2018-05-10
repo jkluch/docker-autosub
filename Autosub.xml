@@ -12,7 +12,7 @@
   <Category/>
   <WebUI/>
   <TemplateURL/>
-  <Icon/>
+  <Icon>https://raw.githubusercontent.com/jkluch/docker-autosub/master/img/autosub.jpg</Icon>
   <ExtraParams/>
   <PostArgs/>
   <DateInstalled>1525316148</DateInstalled>
